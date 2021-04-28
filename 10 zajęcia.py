@@ -1,10 +1,10 @@
 print("podaj pierwszą liczbę")
-liczba1 = int(input())
+liczba_pierwsza = int(input())
 print("podaj drugą liczbę")
-liczba2 = int(input())
-if liczba1>liczba2:
-    print(liczba1)
-elif liczba1<liczba2:
-    print(liczba2)
+liczba_druga = int(input())
+if liczba_pierwsza>liczba_druga:
+    print(liczba_pierwsza)
+elif liczba_pierwsza<liczba_druga:
+    print(liczba_druga)
 else:
     print("Liczby są równe")
