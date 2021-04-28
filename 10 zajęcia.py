@@ -7,4 +7,4 @@ if liczba_pierwsza>liczba_druga:
 elif liczba_pierwsza<liczba_druga:
     print(liczba_druga)
 else:
-    print("Liczby są równe")
+    print("Liczby mają taką samą wartość.")
